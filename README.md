@@ -11,3 +11,5 @@ Si quieren ver mi perfil de platzi se encuentra por [a.k.a](https://platzi.com/@
 - [Mi blog aquí](https://jok3r.site/ "Mi blog aquí")
 - [Twitter](https://twitter.com/jok3rcit0 "Twitter")
 - [Invítenme un café](https://www.buymeacoffee.com/jok3rsite "Invítenme un café")
+
+### Aprendiendo CHerry Pick?
