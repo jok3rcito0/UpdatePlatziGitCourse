@@ -13,3 +13,6 @@ Si quieren ver mi perfil de platzi se encuentra por [a.k.a](https://platzi.com/@
 - [Invítenme un café](https://www.buymeacoffee.com/jok3rsite "Invítenme un café")
 
 ### Aprendiendo CHerry Pick?
+
+*Incluye ejemplos de cosas
+*diverso y de ejemplo
