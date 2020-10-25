@@ -15,3 +15,4 @@ Si quieren ver mi perfil de platzi se encuentra por [a.k.a](https://platzi.com/@
 ### Aprendiendo CHerry Pick?
 
 *Incluye ejemplos de cosas
+*diverso y de ejemplo
